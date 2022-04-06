@@ -13,3 +13,6 @@ $ cd NordGUI
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
+
+## Final
+Code currently looks unclean and untidy, as I'm still trying it out until I have more time and desire to continue working

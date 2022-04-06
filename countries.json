@@ -1,6 +1,33 @@
 {
     "countries": [
         {
+            "name": "Africa_The_Middle_East_And_India"
+        },
+        {
+            "name": "Asia_Pacific"
+        },
+        {
+            "name": "Dedicated_IP"
+        },
+        {
+            "name": "Double_VPN"
+        },
+        {
+            "name": "Europe"
+        },
+        {
+            "name": "Onion_Over_VPN"
+        },
+        {
+            "name": "P2P"
+        },
+        {
+            "name": "Standard_VPN_Servers"
+        },
+        {
+            "name": "The_Americas"
+        },
+        {
             "name": "Albania"
         },
         {

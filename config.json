@@ -1,0 +1,1 @@
+{"autoconnect": false, "cybersec": false, "dns": "1.1.1.1", "firewall": true, "ipv6": false, "killswitch": false, "notify": false, "obfuscate": false, "protocol": "UDP", "technology": "OpenVPN", "button_login": null}
